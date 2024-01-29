@@ -17,8 +17,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\amazon.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dotnet-imagen-2.png",
+      "PackagePath": "staticwebassets\\imagenes\\dotnet-imagen-2.png"
+    },
+    {
       "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.jpg",
       "PackagePath": "staticwebassets\\imagenes\\foto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
+      "PackagePath": "staticwebassets\\imagenes\\foto.png"
+    },
+    {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\nyt.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\nyt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\reddit.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steam.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\steam.PNG"
     },
     {
       "Id": "C:\\Users\\Windows\\Documents\\Repositorios\\net-asp\\workspace\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
