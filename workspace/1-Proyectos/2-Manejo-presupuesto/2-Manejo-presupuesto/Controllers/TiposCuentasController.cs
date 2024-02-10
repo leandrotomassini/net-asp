@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using _2_Manejo_presupuesto.Models;
-using Microsoft.Data.SqlClient;
 using Dapper;
 using _2_Manejo_presupuesto.Servicios;
 
@@ -9,10 +8,18 @@ namespace _2_Manejo_presupuesto.Controllers
     public class TiposCuentasController : Controller
     {
 
+        private readonly IRepositorioTiposCuentas repositorioTiposCuentas;
 
         public TiposCuentasController(IRepositorioTiposCuentas repositorioTiposCuentas)
         {
-            RepositorioTiposCuentas = repositorioTiposCuentas;
+            this.repositorioTiposCuentas = repositorioTiposCuentas;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            var usuarioId = 1;
+            var tiposCuentas = await repositorioTiposCuentas.Obtener(usuarioId);
+            return View(tiposCuentas);
         }
 
         public IRepositorioTiposCuentas RepositorioTiposCuentas { get; }
@@ -23,7 +30,7 @@ namespace _2_Manejo_presupuesto.Controllers
         }
 
         [HttpPost]
-        public IActionResult Crear(TipoCuenta tipoCuenta)
+        public async Task<IActionResult> Crear(TipoCuenta tipoCuenta)
         {
             if (!ModelState.IsValid)
             {
@@ -31,9 +38,33 @@ namespace _2_Manejo_presupuesto.Controllers
             }
 
             tipoCuenta.UsuarioId = 1;
-            RepositorioTiposCuentas.Crear(tipoCuenta);
 
-            return View();
+            var yaExisteTipoCuenta = await RepositorioTiposCuentas.Existe(tipoCuenta.Nombre, tipoCuenta.UsuarioId);
+
+            if (yaExisteTipoCuenta)
+            {
+                ModelState.AddModelError(nameof(tipoCuenta.Nombre),
+                    $"El nombre {tipoCuenta.Nombre} ya existe.");
+                return View(tipoCuenta);
+            }
+
+            await RepositorioTiposCuentas.Crear(tipoCuenta);
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> VerficiarExisteTipoCuenta(string nombre)
+        {
+            var usuarioId = 1;
+            var yaExisteTipoCuenta = await RepositorioTiposCuentas.Existe(nombre, usuarioId);
+            
+            if (yaExisteTipoCuenta)
+            {
+                return Json($"El nombre {nombre} ya existe");
+            }
+
+            return Json(true);
         }
     }
 }
