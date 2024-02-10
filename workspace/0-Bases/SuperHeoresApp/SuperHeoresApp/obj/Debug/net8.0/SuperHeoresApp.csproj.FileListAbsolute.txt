@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\bin\Debug\net8.0\SuperHeoresApp.exe
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\bin\Debug\net8.0\SuperHeoresApp.deps.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\bin\Debug\net8.0\SuperHeoresApp.runtimeconfig.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\bin\Debug\net8.0\SuperHeoresApp.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\bin\Debug\net8.0\SuperHeoresApp.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.AssemblyInfo.cs
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.sourcelink.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\refint\SuperHeoresApp.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\SuperHeoresApp.genruntimeconfig.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\SuperHeoresApp\SuperHeoresApp\obj\Debug\net8.0\ref\SuperHeoresApp.dll

@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\bin\Debug\net8.0\PooDemo.exe
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\bin\Debug\net8.0\PooDemo.deps.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\bin\Debug\net8.0\PooDemo.runtimeconfig.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\bin\Debug\net8.0\PooDemo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\bin\Debug\net8.0\PooDemo.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.AssemblyInfo.cs
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.sourcelink.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\refint\PooDemo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\PooDemo.genruntimeconfig.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\PooDemo\PooDemo\obj\Debug\net8.0\ref\PooDemo.dll
