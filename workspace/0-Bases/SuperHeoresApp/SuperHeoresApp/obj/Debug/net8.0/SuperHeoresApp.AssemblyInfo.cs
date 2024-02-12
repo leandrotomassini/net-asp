@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperHeoresApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729451fee54f3c464c2a87b07224a1291167fd55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21899d80b400837170c326356b21ec33164fb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperHeoresApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperHeoresApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
