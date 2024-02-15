@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\bin\Debug\net8.0\linq-demo.exe
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\bin\Debug\net8.0\linq-demo.deps.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\bin\Debug\net8.0\linq-demo.runtimeconfig.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\bin\Debug\net8.0\linq-demo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\bin\Debug\net8.0\linq-demo.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.AssemblyInfo.cs
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.sourcelink.json
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\refint\linq-demo.dll
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.pdb
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\linq-demo.genruntimeconfig.cache
+C:\Users\Windows\Documents\Repositorios\net-asp\workspace\0-Bases\linq-demo\obj\Debug\net8.0\ref\linq-demo.dll
